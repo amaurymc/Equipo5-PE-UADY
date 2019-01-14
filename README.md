@@ -1,12 +1,13 @@
-# Programacion Estructurada
+# Programación Estructurada
 
-## Equipo Numero 5
+## Equipo Número 5
 
-Esta integrado por: 
-Amaury Morales
-Hector Valdivieso
-Amilcar Ramirez
-Codigos disponibles [aqui](https://)
+Integrado por:   
+Amaury Morales  
+Hector Valdivieso  
+Amilcar Ramirez   
+
+Códigos disponibles [aqui](https://github.com/amaurymc/Equipo5-PE-UADY/tree/master/Ruby)
 
 ## Lenguajes
 
