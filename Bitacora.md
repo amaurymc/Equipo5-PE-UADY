@@ -1,5 +1,5 @@
-| Fecha  | Integrante(s) | Acción/Tarea |
-|--------|-------------|--------|
+| Fecha  | Integrante(s) | Acción/Tarea | Importacia |
+|--------|-------------|--------|--------|
 | 11/01/19 | Todo el equipo | Ponerse de acuerdo en el lenguaje a utilizar para el Algoritmo. Decidimos Ruby por ser flexible y eficaz para algoritmos cortos y básicos |
 | 12/01/19 | Todo el equipo | Brainstorming del proyecto final. Ideas: Agenda. |
 | 13/01/19 | Amaury | Creación del código BusquedaBinaria.rb en Ruby. |
