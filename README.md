@@ -1,15 +1,22 @@
 # Programación Estructurada
 
-## Equipo Número 5
+*Repositorio del Equipo Número 5 de la materia Programación Estructurada.*  
+**Profesor: Edgar Cambranes Martínez.**
 
-Integrado por:   
-Amaury Morales  
-Hector Valdivieso  
-Amilcar Ramirez   
+## EQUIPO NÚMERO 5
+***Integrado por:***   
 
-Códigos disponibles [aqui](https://github.com/amaurymc/Equipo5-PE-UADY/tree/master/Ruby)  
-Bitácora disponible [aqui](https://github.com/amaurymc/Equipo5-PE-UADY/blob/master/Bitacora.md)
++ *Amaury Morales*  
++ *Héctor Valdivieso*   
++ *Amilcar Ramírez*  
 
-## Lenguajes
+----------------------
 
--Ruby 2.6
+## DOCUMENTOS
+
++ *[Códigos disponibles](https://github.com/amaurymc/Equipo5-PE-UADY/tree/master/Ruby)*  
++ *[Bitácora](https://github.com/amaurymc/Equipo5-PE-UADY/blob/master/Bitacora.md)*
+
+## HERRAMIENTAS
+
++ *[Ruby 2.6.0](https://www.ruby-lang.org/en/downloads/)*
